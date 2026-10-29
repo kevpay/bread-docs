@@ -1,6 +1,6 @@
 ---
 title: La Caisse
-description: La Caisse is an open source digital cashbox for communities that need to move money without becoming a bank. It runs La CLASS, the food social security fund in Schaerbeek, and Pay for Brussels, the don suspendu fund of Brussels Pay ASBL, which holds this Solidarity Fund membership.
+description: The digital cashbox for solidarity funds. Open source, behind La CLASS (food social security in Schaerbeek) and Pay for Brussels (the don suspendu fund of Brussels Pay ASBL, which holds this Solidarity Fund membership).
 url: https://lacaisse.eu/
 Project Lead: Kevin Sundar Raj
 Email: kevin@citizenpay.eu
@@ -28,6 +28,8 @@ This membership joined the Solidarity Fund in early 2025 as Citizen Wallet. It i
 ---
 
 ### About La Caisse
+
+**The digital cashbox for solidarity funds.**
 
 La Caisse is an open source digital cashbox for communities that need to move money without becoming a bank. Euros come in by bank transfer or card and are issued as tokens. Tokens are spent at the fund's partner shops with a tap of an NFC card. Shops are paid out from the fund based on the tokens they received.
 
