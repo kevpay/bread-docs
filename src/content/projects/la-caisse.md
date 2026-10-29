@@ -4,7 +4,7 @@ description: La Caisse is an open source digital cashbox for communities that ne
 url: https://lacaisse.eu/
 Project Lead: Kevin Sundar Raj
 Email: kevin@citizenpay.eu
-Treasury: https://gnosisscan.io/address/0xA232F16aB37C9a646f91Ba901E92Ed1Ba4B7b544
+Treasury: https://gnosisscan.io/address/0x7de041Fa35ab466e6E725dad60b960f654E727Df
 status: active
 image: "../../../images/member-projects/la_caisse.png"
 isMemberProject: true
